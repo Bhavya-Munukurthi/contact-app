@@ -1,6 +1,7 @@
 # contact-app
 
-# To run an Android app developed using React Native on an Android mobile device, follow the below mentioned steps:
+
+ To run an Android app developed using React Native on an Android mobile device, follow the below mentioned steps:
 
 Setup Development Environment: 
 •	Install Node.js and npm (Node Package Manager) on your system.
